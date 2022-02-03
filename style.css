@@ -19,7 +19,7 @@ body {
 
 .quote-container {
   width: auto;
-  max-width: 900px;
+  max-width: 800px;
   padding: 20px 30px;
   border-radius: 10px;
   background-color: rgba(255, 255, 255, 0.4);
@@ -27,18 +27,18 @@ body {
 }
 
 .quote-text {
-  font-size: 2.75rem;
+  font-size: 2.70rem;
 }
 
 .long-quote {
-  font-size: 2rem;
+  font-size: 2.3rem;
 }
 
 .fa-quote-left {
   font-size: 4rem;
 }
 
-.quote-author {
+.quote-verse {
   margin-top: 15px;
   font-size: 2rem;
   font-weight: 400;
