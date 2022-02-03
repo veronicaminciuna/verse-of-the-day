@@ -1,1 +1,1 @@
-Random Quote Generator
+Verse of the Day
